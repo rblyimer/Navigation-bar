@@ -1,0 +1,41 @@
+html {
+    font-family: serif;
+    color: white;
+}
+nav {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    height;: 10
+}
+.stg {background-color: purple;
+    font-size: xx-large;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px
+}
+div {
+    display: flex;
+    align-items: center;
+    font-family: serif
+}
+.searchbar {
+    display: flex;
+    align-items: center;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+} 
+.cart {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    text-align:justify;
+    padding-right: 1cm;
+  }
+
